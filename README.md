@@ -174,28 +174,5 @@ from src.data_analysis import export_performance_data
 - Can be ended early with 'Q' key
 - Automatic report generation at match end
 
-## 🎯 Future Enhancements
-
-Potential areas for expansion:
-- Tournament mode with multiple matches
-- Advanced AI with machine learning
-- Network multiplayer support
-- 3D graphics upgrade
-- Mobile platform adaptation
-
-## 🤝 Contributing
-
-This modular architecture makes it easy to contribute:
-1. Fork the repository
-2. Create a feature branch
-3. Modify the relevant module
-4. Test your changes
-5. Submit a pull request
-
-## 📄 License
-
-Open source - feel free to use, modify, and distribute.
-
----
 
 **🎮 Ready to play? Run `python run_game.py` and enjoy the game!**
